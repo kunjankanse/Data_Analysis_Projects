@@ -16,11 +16,11 @@ The goal is to analyze key indicators and visualize sales trends to uncover acti
 
 We calculated the following key performance indicators:
 
-1. **Total Revenue** – Sum of the total price of all pizza orders  
-2. **Average Order Value** – Total revenue divided by total number of orders  
-3. **Total Pizzas Sold** – Total quantity of pizzas sold  
-4. **Total Orders** – Total number of unique orders placed  
-5. **Average Pizzas Per Order** – Total pizzas sold ÷ total orders
+1. **Total Revenue** - Sum of the total price of all pizza orders  
+2. **Average Order Value** - Total revenue divided by total number of orders  
+3. **Total Pizzas Sold** - Total quantity of pizzas sold  
+4. **Total Orders** - Total number of unique orders placed  
+5. **Average Pizzas Per Order** - Total pizzas sold ÷ total orders
 
 ---
 
